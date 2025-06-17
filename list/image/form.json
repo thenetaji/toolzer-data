@@ -1,0 +1,703 @@
+{
+  [
+    {
+      "title": "NEET Photo Resizer - Resize to 200x300 px & 10KB JPEG",
+      "description": "Free NEET photo resizer tool to convert your image to 200x300 pixels and under 200KB JPEG, as required by NTA NEET 2025. Quick, secure, and works on mobile",
+      "slug": "neet-photo-resizer",
+      "imageName": "",
+      "contentPath": "/neet-photo-resizer.md",
+      "featureList": [
+        "📸 Upload your NEET photo",
+        "📐 Resize to 200x300 pixels",
+        "⚖️ Compress image to 10–200KB",
+        "📁 Export as JPEG format",
+        "🔍 Instant preview available",
+        "🛡️ Works securely in your browser"
+      ],
+      "config": {
+        "width": 200,
+        "height": 300,
+        "unit": "px",
+        "dpi": 96,
+        "rotate": 0,
+        "percentage": null,
+        "targetSize": 200,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "NEET",
+        "photo resizer",
+        "200x300 pixels",
+        "10KB JPEG",
+        "NTA photo requirement",
+        "NEET 2025",
+        "image upload",
+        "online tool"
+      ]
+    },
+    {
+      "title": "NEET Passport Photo Resizer - 2.5x3.5 inch / 200KB JPG",
+      "description": "Resize your passport-size photo to the exact NEET 2025 specifications: 2.5 x 3.5 inches, JPG format, and under 200KB file size. Quick, accurate, and secure.",
+      "slug": "neet-passport-photo-resizer",
+      "imageName": "",
+      "contentPath": "/neet-passport-photo-resizer.md",
+      "featureList": [
+        "📸 Upload NEET passport photo from any device",
+        "📐 Resize to 2.5 x 3.5 inches at 300 DPI",
+        "🖼 Auto-crop and background adjustment",
+        "⚖️ Compress image under 200KB as per NTA rules",
+        "📁 Convert to required JPG format",
+        "🔍 Preview before and after resizing",
+        "🛡️ Secure, mobile-friendly, and no login needed"
+      ],
+      "config": {
+        "width": 2.5,
+        "height": 3.5,
+        "unit": "in",
+        "dpi": 300,
+        "rotate": 0,
+        "percentage": null,
+        "targetSize": 200,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "NEET",
+        "passport photo",
+        "photo resizer",
+        "200KB JPEG",
+        "2.5x3.5 inch photo",
+        "NTA guidelines",
+        "NEET 2025",
+        "exam photo",
+        "upload photo"
+      ]
+    },
+    {
+      "title": "NEET Postcard Photo Resizer - 4x6 inch / 200KB JPG",
+      "description": "Resize your NEET postcard-size photo to 4 x 6 inches, 300 DPI, and under 200KB JPEG. Compliant with NEET 2025 upload and admit card specifications.",
+      "slug": "neet-postcard-photo-resizer",
+      "imageName": "",
+      "contentPath": "/neet-postcard-photo-resizer.md",
+      "featureList": [
+        "📸 Upload your 4 x 6 inch NEET postcard photo",
+        "📐 Resize to exact 4 x 6 inch size at 300 DPI",
+        "⚖️ Compress under 200KB without quality loss",
+        "📁 Export as high-quality JPEG",
+        "🖼 Auto-crop and aspect ratio lock",
+        "🔍 Instant preview for verification",
+        "🌐 Works on mobile and desktop",
+        "🛡️ Safe processing, no image storage"
+      ],
+      "config": {
+        "width": 4,
+        "height": 6,
+        "unit": "in",
+        "dpi": 300,
+        "rotate": 0,
+        "percentage": null,
+        "targetSize": 200,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "NEET",
+        "postcard photo",
+        "photo resizer",
+        "4x6 inch",
+        "jpeg converter",
+        "photo compressor",
+        "NTA photo requirements",
+        "NEET 2025 tools",
+        "exam upload"
+      ]
+    },
+    {
+      "title": "NEET Fingerprint Resizer - Compress Under 200KB JPEG",
+      "description": "Compress and optimize your fingerprint image for NEET 2025 form submission. JPEG output under 200KB, no DPI or dimension enforcement.",
+      "slug": "neet-fingerprint-resizer",
+      "imageName": "",
+      "contentPath": "/neet-fingerprint-resizer.md",
+      "featureList": [
+        "🖐️ Upload your fingerprint image securely",
+        "⚖️ Auto-compress under 200KB",
+        "📁 Export to high-quality JPEG format",
+        "🔍 Instant preview before download",
+        "📱 Works perfectly on mobile and desktop",
+        "🛡️ 100% privacy, no storage or tracking"
+      ],
+      "config": {
+        "width": null,
+        "height": null,
+        "unit": "px",
+        "dpi": 96,
+        "rotate": 0,
+        "percentage": null,
+        "targetSize": 200,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "NEET",
+        "fingerprint resizer",
+        "image compression",
+        "under 200KB",
+        "finger upload",
+        "exam form",
+        "jpeg optimizer",
+        "NEET 2025 form tools"
+      ]
+    },
+    {
+      "title": "NEET Signature Resizer - 4x1.5 cm / 50KB JPEG",
+      "description": "Compress and resize your NEET signature image to 4x1.5 cm, 200 DPI, under 50KB. Meets official NTA NEET 2025 signature upload requirements.",
+      "imageName": "",
+      "contentPath": "/neet-signature-resizer.md",
+      "slug": "neet-signature-resizer",
+      "featureList": [
+        "✍️ Upload your NEET signature image",
+        "📐 Resize to 4 x 1.5 cm at 200 DPI",
+        "⚖️ Compress under 50KB as per NTA specs",
+        "📁 Convert to JPEG or JPG format",
+        "🔍 Check preview before submission",
+        "🛡️ Fully secure and device-friendly"
+      ],
+      "config": {
+        "width": 4,
+        "height": 1.5,
+        "unit": "cm",
+        "dpi": 200,
+        "rotate": 0,
+        "percentage": null,
+        "targetSize": 50,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": ["NEET", "neet 2025 signature"]
+    },
+    {
+      "title": "JEE Photo Resizer - Resize to 276x354 px & under 200KB JPEG",
+      "description": "Free JEE Main photo resizer to convert your image to 276x354 pixels and under 200KB JPEG, as required by NTA. Fast, accurate, and works on any device.",
+      "slug": "jee-photo-resizer",
+      "imageName": "",
+      "contentPath": "/jee-photo-resizer.md",
+      "featureList": [
+        "📸 Upload photo from phone or computer",
+        "📐 Resize image to JEE Main dimensions (3.5×4.5 cm)",
+        "🖼 Auto-crop and align face in frame",
+        "⚖️ Compress image under 200KB size limit",
+        "📁 Convert image to JPEG/JPG format",
+        "🔍 Instant before-after preview",
+        "🌐 Works on all browsers and devices",
+        "🛡️ Private and secure – nothing stored"
+      ],
+      "config": {
+        "width": 276,
+        "height": 354,
+        "percentage": null,
+        "targetSize": 200,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": ["JEE Main", "photo resizer", "jee 2025"]
+    },
+    {
+      "title": "JEE Signature Resizer - Resize to 276x118 px & under 50KB JPEG",
+      "description": "Resize and compress your scanned signature to match JEE Main dimensions (276x118 px) and under 50KB JPEG format. Simple, instant & secure.",
+      "slug": "jee-signature-resizer",
+      "imageName": "",
+      "contentPath": "/jee-signature-resizer.md",
+      "featureList": [
+        "✍️ Upload scanned signature",
+        "📐 Resize to exact 3.5×1.5 cm size",
+        "⚖️ Compress under 50KB without blurring",
+        "📁 Export in JPEG/JPG format",
+        "🧼 White background & sharp edges",
+        "🌐 Works online – no app needed",
+        "🔍 Instant preview",
+        "🛡️ Private, secure, no watermarks"
+      ],
+      "config": {
+        "width": 276,
+        "height": 118,
+        "percentage": null,
+        "targetSize": 50,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": ["JEE Main", "signature resizer", "jee 2025"]
+    },
+    {
+      "title": "CUET Signature Resizer - Resize to 200x100 px & under 50KB JPEG",
+      "description": "Resize and compress your scanned signature to meet CUET 2025 dimensions (200x100 px) and under 50KB JPEG format. Free, fast & secure online tool.",
+      "slug": "cuet-signature-resizer",
+      "imageName": "",
+      "contentPath": "/cuet-signature-resizer.md",
+      "featureList": [
+        "✍️ Upload scanned signature",
+        "📐 Resize to 200×100 pixels (~3.5x1.5 cm)",
+        "⚖️ Compress under 50KB for CUET form",
+        "📁 Export in JPEG/JPG format",
+        "🧼 Clean background with clear ink",
+        "🌐 Works on all devices – no app required",
+        "🔍 Preview output instantly",
+        "🛡️ Private, secure, and watermark-free"
+      ],
+      "config": {
+        "width": 200,
+        "height": 100,
+        "percentage": null,
+        "targetSize": 50,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": ["CUET 2025", "signature resizer", "cuet form tool"]
+    },
+    {
+      "title": "CUET Photo Resizer - Resize to 276x354 px & under 50KB JPEG",
+      "description": "Resize and compress your photo to match CUET 2025 specifications – 276x354 px and under 50KB JPEG. Fast, free, and secure online photo resizer for CUET exam.",
+      "slug": "cuet-photo-resizer",
+      "imageName": "",
+      "contentPath": "/cuet-photo-resizer.md",
+      "featureList": [
+        "📤 Upload passport-size photo",
+        "📐 Resize to 3.5×4.5 cm (276x354 px)",
+        "⚖️ Compress under 50KB smartly",
+        "📁 Export in JPEG/JPG format",
+        "🧼 White/light background as per NTA rules",
+        "🌐 Works online on all devices",
+        "🔍 Preview before download",
+        "🛡️ Secure – no watermarks, no data stored"
+      ],
+      "config": {
+        "width": 276,
+        "height": 354,
+        "percentage": null,
+        "targetSize": 50,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": ["CUET 2025", "photo resizer", "cuet image size"]
+    },
+    {
+      "title": "CTET Photo Resizer – Resize to 413x531 px & under 100KB JPG",
+      "description": "Free CTET photo resizer to convert your image to 413x531 pixels and under 100KB JPG, as required by CBSE for CTET 2025. Fast, secure, and mobile-friendly.",
+      "slug": "ctet-photo-resizer",
+      "imageName": "",
+      "contentPath": "/ctet-photo-resizer.md",
+      "featureList": [
+        "📸 Upload your photo directly from phone or desktop",
+        "📐 Resize image to CTET dimensions (3.5×4.5 cm)",
+        "🖼 Maintain aspect ratio and clarity",
+        "⚖️ Compress image under 100KB size limit",
+        "📁 Convert image to JPG/JPEG format",
+        "🔍 Preview before and after resizing",
+        "🌐 Compatible with all devices and browsers",
+        "🔒 Secure – no data stored or shared"
+      ],
+      "config": {
+        "width": 413,
+        "height": 531,
+        "percentage": null,
+        "targetSize": 100,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "CTET",
+        "CTET 2025",
+        "photo resizer",
+        "image compressor",
+        "cbse ctet upload"
+      ]
+    },
+    {
+      "title": "CTET Signature Resizer – Resize to 413x177 px & under 30KB JPG",
+      "description": "Free CTET signature resizer to convert your scanned signature to 413x177 pixels and under 30KB JPG, as required by CBSE for CTET 2025",
+      "slug": "ctet-signature-resizer",
+      "imageName": "",
+      "contentPath": "/ctet-signature-resizer.md",
+      "featureList": [
+        "✍️ Upload your scanned signature image",
+        "📐 Resize to CTET required size (3.5×1.5 cm)",
+        "🖼 Preserve sharpness and proportions",
+        "⚖️ Compress under 30KB file size limit",
+        "📁 Convert to JPG/JPEG format automatically",
+        "🔍 Preview resized signature before downloading",
+        "📱 Use on mobile, tablet, or desktop",
+        "🔐 100% private – no files stored or shared"
+      ],
+      "config": {
+        "width": 413,
+        "height": 177,
+        "percentage": null,
+        "targetSize": 30,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "CTET",
+        "CTET 2025",
+        "signature resizer",
+        "ctet signature upload",
+        "image resizer"
+      ]
+    },
+    {
+      "title": "CAT Signature Resizer - Resize to 80x35 px & under 80KB JPEG",
+      "description": "Free online CAT Signature Resizer for CAT 2025: JPG/JPEG format, 80×35 px dimensions, and under 80KB. Mobile-friendly, secure, and no signup required.",
+      "slug": "cat-signature-resizer",
+      "imageName": "",
+      "contentPath": "/cat-signature-resizer.md",
+      "featureList": [
+        "✍️ Upload handwritten signature (JPG/JPEG)",
+        "📐 Resize to 80×35 px (CAT required dimensions)",
+        "⚖️ Compress under 80 KB without losing clarity",
+        "🔍 Preview before download",
+        "🌐 Browser-only tool—no install or signup",
+        "🛡️ No data stored, fully private",
+        "📱 Works on desktop and mobile",
+        "🆓 100% free to use"
+      ],
+      "config": {
+        "width": 80,
+        "height": 35,
+        "percentage": null,
+        "targetSize": 80,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": ["CAT 2025", "signature resizer", "CAT form tool"]
+    },
+    {
+      "title": "CAT Photo Resizer - Resize to 248x300 px & under 80KB JPEG",
+      "description": "Free online CAT Photo Resizer for CAT 2025: JPG/JPEG format, 248×300 px dimensions (~35×45 mm), and under 80KB.",
+      "slug": "cat-photo-resizer",
+      "imageName": "",
+      "contentPath": "/cat-photo-resizer.md",
+      "featureList": [
+        "📷 Upload passport-style photo",
+        "📐 Auto-resize to 248×300 px",
+        "⚖️ Smart compression under 80 KB",
+        "🔍 Instant preview before download",
+        "🌐 Works entirely in your browser",
+        "📱 Mobile and desktop compatible",
+        "🛡️ No data stored, fully private",
+        "🆓 100% free, no watermark"
+      ],
+      "config": {
+        "width": 248,
+        "height": 300,
+        "percentage": null,
+        "targetSize": 80,
+        "quality": null,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": ["CAT 2025", "photo resizer", "pixels converter", "exam tool"]
+    },
+    {
+      "title": "SSC Photo Resizer – Resize to 200×230 px & Under 50 KB (JPG)",
+      "description": "Free SSC photo resizer for CGL, CHSL, MTS. Resize passport photo to 200×230 px and compress under 50KB in JPG format. Works on mobile. No app needed.",
+      "slug": "ssc-photo-resizer",
+      "imageName": "",
+      "contentPath": "/ssc-photo-resizer.md",
+      "featureList": [
+        "📷 Upload passport-style photograph (JPG)",
+        "📐 Resize to 200×230 px (3.5×4.5 cm)",
+        "⚖️ Compress image to under 50 KB",
+        "📁 Export in JPG format for SSC forms",
+        "🔍 Instant preview before download",
+        "🌐 Mobile-friendly, browser-based tool",
+        "🛡️ No uploads, 100% secure"
+      ],
+      "config": {
+        "width": 200,
+        "height": 230,
+        "targetSize": 50,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "SSC photo resizer",
+        "SSC CGL 2025",
+        "CHSL photo size",
+        "MTS form photo"
+      ]
+    },
+    {
+      "title": "SSC Signature Resizer – Resize to 140×60 px & Under 20KB JPG",
+      "description": "Free SSC Signature Resizer for SSC CGL, CHSL, MTS exams. Resize to 140×60 px and under 20KB JPG format. Mobile-friendly and secure.",
+      "slug": "ssc-signature-resizer",
+      "imageName": "",
+      "contentPath": "/ssc-signature-resizer.md",
+      "featureList": [
+        "✍️ Upload handwritten signature (JPG)",
+        "📏 Resize to 140×60 px (4×2 cm)",
+        "⚖️ Compress under 20 KB",
+        "📁 Export in JPEG format",
+        "🧼 Clean background & crisp output",
+        "🔍 Preview before download",
+        "🌐 Works online – no app needed",
+        "🔒 Fully private – nothing stored"
+      ],
+      "config": {
+        "width": 140,
+        "height": 60,
+        "targetSize": 20,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "SSC CGL 2025",
+        "signature resizer",
+        "ssc form",
+        "ssc mts 2025",
+        "ssc chsl 2025"
+      ]
+    },
+    {
+      "title": "GATE Photo Resizer – Resize to 413×531 px & Under 200KB JPG",
+      "description": "Free online GATE photo resizer to resize your passport-size photo to 413×531 pixels and under 200KB JPG. Perfect for GATE 2025 application form.",
+      "slug": "gate-photo-resizer",
+      "imageName": "",
+      "contentPath": "/gate-photo-resizer.md",
+      "featureList": [
+        "📷 Upload your passport-style color photo (JPG)",
+        "📐 Resize to 413×531 pixels (3.5×4.5 cm at 300 DPI)",
+        "⚖️ Compress to under 200 KB",
+        "📁 Perfect for GATE 2025 online form",
+        "🔍 Preview image before download",
+        "📲 Mobile-friendly, browser-based",
+        "🛡️ Secure – processed in your browser only"
+      ],
+      "config": {
+        "width": 413,
+        "height": 531,
+        "targetSize": 200,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "GATE 2025",
+        "photo resizer",
+        "GATE form upload",
+        "resize photo gate"
+      ]
+    },
+    {
+      "title": "GATE Signature Resizer – Resize to 250×80–580×180 px & Under 1 MB JPG",
+      "description": "Resize and compress your GATE 2025 signature to exact specs: JPG format, 250×80–580×180 px, under 1MB. Free online tool. Safe and mobile-friendly.",
+      "slug": "gate-signature-resizer",
+      "imageName": "",
+      "contentPath": "/gate-signature-resizer.md",
+      "featureList": [
+        "✍️ Upload handwritten signature image",
+        "📐 Resize between 250×80 and 580×180 px",
+        "📏 Maintains 1:2.75 to 1:3.75 aspect ratio",
+        "⚖️ Compress under 1 MB (1000KB)",
+        "🧼 Black or blue ink on white paper",
+        "📁 Export in JPG/JPEG format",
+        "📲 Mobile and desktop support",
+        "🔒 100% secure – processed in-browser only"
+      ],
+      "config": {
+        "width": 400,
+        "height": 130,
+        "minWidth": 250,
+        "maxWidth": 580,
+        "minHeight": 80,
+        "maxHeight": 180,
+        "targetSize": 1000,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "GATE 2025",
+        "signature resizer",
+        "GATE form image tool",
+        "GATE signature dimensions"
+      ]
+    },
+    {
+      "title": "CLAT Photo Resizer – Resize to 200×230 px & Under 200KB JPG",
+      "description": "Easily resize your passport-style photo to 200×230 px and under 200KB JPG for CLAT 2025 application form. Instant, secure & mobile‑friendly.",
+      "slug": "clat-photo-resizer",
+      "imageName": "",
+      "contentPath": "/clat-photo-resizer.md",
+      "featureList": [
+        "📷 Upload your passport photo (JPG format)",
+        "📐 Resize to 200×230 pixels (approx. 3.5×4.5 cm)",
+        "⚖️ Compress under 200 KB as per CLAT rules",
+        "🔍 Preview before download",
+        "📲 Mobile-friendly, browser-based tool",
+        "🛡️ Secure – no upload to server",
+        "🆓 100% free CLAT photo resizer"
+      ],
+      "config": {
+        "width": 200,
+        "height": 230,
+        "targetSize": 200,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "CLAT 2025",
+        "photo resizer",
+        "CLAT image upload",
+        "CLAT form photo size"
+      ]
+    },
+    {
+      "title": "CLAT Signature Resizer – Resize to 140x60 px & Under 20KB JPG",
+      "description": "Resize and compress your scanned signature to match CLAT 2025 upload dimensions (140x60 px) and under 20KB JPEG format. Simple, secure, and mobile-friendly.",
+      "slug": "clat-signature-resizer",
+      "imageName": "",
+      "contentPath": "/clat-signature-resizer.md",
+      "featureList": [
+        "✍️ Upload scanned signature",
+        "📐 Resize to 140×60 px (3.5×1.5 cm)",
+        "⚖️ Compress under 20 KB",
+        "📁 Export in JPEG format",
+        "🌐 Works online – no software required",
+        "🔍 Instant preview before download",
+        "🔒 Secure and private – nothing stored"
+      ],
+      "config": {
+        "width": 140,
+        "height": 60,
+        "targetSize": 20,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "CLAT 2025",
+        "signature resizer",
+        "CLAT form",
+        "law entrance exam"
+      ]
+    },
+    {
+      "title": "UPSC Photo Resizer – Resize to 413×531 px & Under 200 KB JPG",
+      "description": "Resize your passport-style photo for UPSC CSE 2025: 3.5×4.5 cm (~413×531 px @300 DPI), under 200 KB JPG. Free, mobile-friendly, and secure browser tool.",
+      "slug": "upsc-photo-resizer",
+      "imageName": "",
+      "contentPath": "/upsc-photo-resizer.md",
+      "featureList": [
+        "📷 Upload passport-style photo (JPG)",
+        "📐 Resize to standard CSE dimensions (~413×531 px)",
+        "⚖️ Compress to under 200 KB",
+        "🔍 Preview before download",
+        "📲 Mobile and desktop friendly",
+        "🛡️ 100% private — processed in your browser",
+        "🆓 Free & no watermark"
+      ],
+      "config": {
+        "width": 413,
+        "height": 531,
+        "targetSize": 200,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "UPSC 2025",
+        "photo resizer",
+        "passport photo",
+        "application form tool"
+      ]
+    },
+    {
+      "title": "UPSC Signature Resizer – Resize to 350–500 px & Under 100 KB JPG",
+      "description": "Free online tool to resize and compress your signature for UPSC CSE 2025: JPG format, 350–500 px dimensions, under 100 KB. Fast, secure, and mobile-friendly.",
+      "slug": "upsc-signature-resizer",
+      "imageName": "",
+      "contentPath": "/upsc-signature-resizer.md",
+      "featureList": [
+        "✍️ Upload your handwritten signature",
+        "📐 Resize image to 350–500 pixels",
+        "⚖️ Compress to under 100 KB",
+        "📁 Output in JPG format",
+        "🔍 Live preview before download",
+        "🌐 Works entirely in your browser",
+        "📱 Compatible with mobile and desktop",
+        "🛡️ Secure, no data stored"
+      ],
+      "config": {
+        "minWidth": 350,
+        "maxWidth": 500,
+        "minHeight": 350,
+        "maxHeight": 500,
+        "targetSize": 100,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": [
+        "UPSC 2025",
+        "signature resizer",
+        "UPSC CSE form",
+        "image upload"
+      ]
+    },
+    {
+      "title": "NDA Photo Resizer – Resize to 110×140 px & Under 300 KB JPG",
+      "description": "Free online NDA photo resizer to resize your passport-style photograph to 110×140 px and under 300 KB JPG. Fits UPSC NDA & CDS form upload specs. Fast, secure, and mobile-friendly.",
+      "slug": "nda-photo-resizer",
+      "imageName": "",
+      "contentPath": "/nda-photo-resizer.md",
+      "featureList": [
+        "📷 Upload passport-style photo (JPG format)",
+        "📐 Resize to 110×140 px (NDA upload size)",
+        "⚖️ Compress to 20–300 KB",
+        "🔍 Preview before download",
+        "📲 Works on mobile & desktop",
+        "🛡️ Secure – processed in your browser only",
+        "🆓 100% free, no watermarks"
+      ],
+      "config": {
+        "width": 110,
+        "height": 140,
+        "targetSize": 300,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": ["NDA 2025", "photo resizer", "nda form image", "upsc nda photo"]
+    },
+    {
+      "title": "NDA Signature Resizer – Resize to 110×140 px & Under 300 KB JPG",
+      "description": "Resize your handwritten signature to 110×140 px and under 300 KB JPG format for the NDA 2025 form. Fast, secure, and mobile‑friendly browser tool.",
+      "slug": "nda-signature-resizer",
+      "imageName": "",
+      "contentPath": "/nda-signature-resizer.md",
+      "featureList": [
+        "✍️ Upload your scanned signature (JPG)",
+        "📐 Resize to 110×140 pixels (NDA spec)",
+        "⚖️ Compress to 20–300 KB",
+        "📁 Download as JPG",
+        "🔍 Preview before download",
+        "📲 Works on mobile & desktop",
+        "🛡️ 100% private — processed locally"
+      ],
+      "config": {
+        "width": 110,
+        "height": 140,
+        "targetSize": 300,
+        "format": "jpeg",
+        "maintainAspectRatio": true
+      },
+      "tags": ["NDA 2025", "signature resizer", "nda form", "upsc nda"]
+    }
+  ]
+}
